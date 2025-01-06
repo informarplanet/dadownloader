@@ -25,35 +25,19 @@ DA Downloader is a versatile and powerful software for downloading content from 
 ## Installation
 
 ### Windows
-
 1. Download the installer from the [Windows Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
 2. Run the installer and follow the on-screen instructions.
+4. Launch the software.
+5. Paste the link you want to download (e.g., YouTube, Instagram, Torrent, Facebook, Any Downloadable Link etc.).
+6. Select "Download" options.
 
 ### Linux
-
 1. Download from the [Linux Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
 2. Run the application:
    ```bash
    ./DA Downloader
    ```
-
 ## Usage
-
-### CLI Mode Both (Windows / Linux)
-
-1. Open Powershell (Run as Administrator)
-2. Paste & enter  
-```bash
-  Set-ExecutionPolicy AllSigned
-```
-3. Paste & enter 
-```bash
- Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-```
-4. Launch the software.
-5. Paste the link you want to download (e.g., YouTube, Instagram, Torrent, Facebook, Any Downloadable Link etc.).
-6. Select "Download" options.
-
 ### Exit The Programe
 
 Use `99` Number flag
