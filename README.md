@@ -18,12 +18,12 @@ DA Downloader is a versatile and powerful software for downloading content from 
 
 ### Windows
 
-1. Download the installer from the [Windows Download Link](#).
+1. Download the installer from the [Windows Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
 2. Run the installer and follow the on-screen instructions.
 
 ### Linux
 
-1. Download from the [Linux Download Link](#).
+1. Download from the [Linux Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
 2. Run the application:
    ```bash
    ./DA Downloader
