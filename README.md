@@ -76,8 +76,9 @@ Enter the URL: https://fb.watch/xxxxxxxxxx/ # for facebook Video Link
 Enter the URL: magnet:?xt=.......
 ```
 ## Screenshots
-
-
+<div align="center">
+  <img src="./da downloader.jpeg" alt="DA Downloader" width="400" />
+</div>
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
