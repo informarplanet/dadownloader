@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./cloud.png" alt="DA Downloader" width="400" />
+</div>
+
 # DA Downloader
 
 DA Downloader is a versatile and powerful software for downloading content from various platforms, compatible with both Windows and Linux operating systems. Whether you want to download files, videos, reels, or torrents, DA Downloader has you covered.
