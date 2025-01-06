@@ -70,6 +70,16 @@ Enter the URL: https://www.facebook.com/reel/xxxxxxxxxxx # for facebook reel Lin
 Enter the URL: https://fb.watch/xxxxxxxxxx/ # for facebook Video Link
 
 ```
+#### Download a Twiter (video / audio):
+```bash
+Enter the URL: https://x.com/i/status/xxxxxxxxxxxxxxxxxx
+
+```
+#### Download a Linkdn (video / audio):
+```bash
+Enter the URL: https://www.linkedin.com/posts/xxxxxxxx 
+
+```
 
 #### Download a torrent using a magnet link:
 ```bash
