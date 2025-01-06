@@ -79,9 +79,6 @@ Enter the URL: magnet:?xt=.......
 <div align="center">
   <img src="./da downloader.jpeg" alt="DA Downloader" width="400" />
 </div>
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
