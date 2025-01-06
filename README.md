@@ -41,9 +41,12 @@ DA Downloader is a versatile and powerful software for downloading content from 
 
 ### CLI Mode Both (Windows / Linux)
 
-1. Launch the software.
-2. Paste the link you want to download (e.g., YouTube, Instagram, Torrent, Facebook, Any Downloadable Link etc.).
-3. Select "Download" options.
+1. Open Powershell (Run as Administrator)
+2. type `Set-ExecutionPolicy AllSigned` and Enter
+3. type `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and enter
+4. Launch the software.
+5. Paste the link you want to download (e.g., YouTube, Instagram, Torrent, Facebook, Any Downloadable Link etc.).
+6. Select "Download" options.
 
 ### Exit The Programe
 
