@@ -97,7 +97,7 @@ For support or inquiries or Feedback:
 
 If you find DA Downloader helpful, consider supporting us to keep the development going. Every contribution makes a difference:
 - PayPal: [Donate via PayPal](https://paypal.me/p964)
-- Upi: Donate via UPI (ppulak17@ibl) Only For India  
+- Donate via UPI: `ppulak17@ibl` Only For India  
 Thank you for your generosity and support!
 
 
