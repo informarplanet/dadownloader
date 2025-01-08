@@ -80,7 +80,7 @@ Enter the URL: magnet:?xt=.......
 ```
 ## Screenshots
 <div align="center">
-  <img src="./da downloader.jpeg" alt="DA Downloader" width="400" />
+  <img src="./da downloader.jpg" alt="DA Downloader" width="400" />
 </div>
 
 ## Contributing
