@@ -91,7 +91,7 @@ We welcome Feel free to submit issues to improve the project.
 
 For support or inquiries or Feedback:
 - Email: edarmy@proton.me
-- Website: [newstorial.com](https://www.newstorial.com)
+- Website: [Send Feedback](https://forms.gle/4Gg6fQxxPNUDKAh1A)
 
 ## Donations
 
