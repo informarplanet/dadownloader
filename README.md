@@ -93,6 +93,8 @@ For support or inquiries or Feedback:
 - Email: edarmy@proton.me
 - Website: [Send Feedback](https://forms.gle/4Gg6fQxxPNUDKAh1A)
 
+## Tutorial for Windows
+
 ## Donations
 
 If you find DA Downloader helpful, consider supporting us to keep the development going. Every contribution makes a difference:
