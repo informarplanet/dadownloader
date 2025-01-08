@@ -95,7 +95,7 @@ For support or inquiries or Feedback:
 
 ## Tutorial for Windows
 <a href="https://www.youtube.com/embed/kOLy8K2Vl6Q?si=PdajWhNlpw9aC3MX" target="_blank">
- <img src="https://i.ytimg.com/vi_webp/kOLy8K2Vl6Q/sddefault.webp" alt="Watch the video" width="720" height="1000" border="10" />
+ <img src="https://i.ytimg.com/vi_webp/kOLy8K2Vl6Q/sddefault.webp" alt="Watch the video" width="700" height="720"/>
 </a>
 
 ## Donations
