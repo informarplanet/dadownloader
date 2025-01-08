@@ -94,7 +94,9 @@ For support or inquiries or Feedback:
 - Website: [Send Feedback](https://forms.gle/4Gg6fQxxPNUDKAh1A)
 
 ## Tutorial for Windows
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOLy8K2Vl6Q?si=89FDrOY1ufBtJ4uH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/kOLy8K2Vl6Q?si=PdajWhNlpw9aC3MX" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 ## Donations
 
