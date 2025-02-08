@@ -2,7 +2,7 @@
   <img src="./cloud.png" alt="DA Downloader" width="400" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-green?style=flat-square?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-2.0.1-green?style=flat-square?style=for-the-badge">
   <img src="https://img.shields.io/badge/Author-DEAD Army-blue?style=flat-square?style=for-the-badge">
 </p>
 
