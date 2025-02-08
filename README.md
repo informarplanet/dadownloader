@@ -25,14 +25,14 @@ DA Downloader is a versatile and powerful software for downloading content from 
 ## Installation
 
 ### Windows
-1. Download the installer from the [Windows Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
+1. Download the installer from the [Windows Download Link](https://da.newstorial.com).
 2. Run the installer and follow the on-screen instructions.
 4. Launch the software.
 5. Paste the link you want to download (e.g., YouTube, Instagram, Torrent, Facebook, Any Downloadable Link etc.).
 6. Select "Download" options.
 
 ### Linux
-1. Download from the [Linux Download Link](https://forms.gle/296LZ4RJevMWjPzp8).
+1. Download from the [Linux Download Link](https://da.newstorial.com).
 2. Run the application:
    ```bash
    ./DA Downloader
